@@ -8,4 +8,6 @@ My goal is to **bridge AI, and real-world applications** to create impactful sol
 
 ### **Techs**
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=%234479A1)
+
 
