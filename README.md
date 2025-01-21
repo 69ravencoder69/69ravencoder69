@@ -33,4 +33,4 @@ My goal is to **bridge AI, and real-world applications** to create impactful sol
 ![Static Badge](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&logoColor=%23000000)
 
 ### **contact me**
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logoColor=%2309009B&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flakshay-chhabra-)[https://www.google.com]
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logoColor=%2309009B&link=https://www.linkedin.com/in/lakshay-chhabra-)
