@@ -13,6 +13,7 @@ My goal is to **bridge AI, and real-world applications** to create impactful sol
 ![Static Badge](https://img.shields.io/badge/FIGMA-blue?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=%23181717)
+![Static Badge](https://img.shields.io/badge/elasticsearch-black?style=for-the-badge&logo=Elasticsearch&logoColor=%23005571)
 
 
 ### **liblaries**
